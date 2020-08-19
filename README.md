@@ -1,15 +1,13 @@
 
 [![Pull Request](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/crtved) [![Views](https://visitor-badge.glitch.me/badge?page_id=crtved.visitor-badge)](https://github.com/crtved)
 
-### Hello there
+I was told that I am not creative enough and I should stop involving myself in any form of design projects or activities.
 
-Welcome to my Github page! ✨
+**I didn't stop.** ✋🏻
 
-I'm a Web Dev guy from the Philippines who happens to be obsessed with UI design and UX practice.
+Kumusta, I am Art, a UX enthusiast and a Creative Front-End Web Developer from the Philippines, currently working as a Technical and Web Design Consultant, and a Freelance Website Designer and Developer.
 
-Most of my works revolve around coding, however, one day, I decided to incorporate Web Development skills and my interest in UI Design, now I'm working as a Creative Front-End Web Developer, UI Designer, UX Practitioner, and a Consultant 🎉
-
-I'm currently working on [Kakutasu JS](https://github.com/crtved/kakutasu.js) a MERN Stack boilerplate 🔥
+With almost four years of experience in the field, I found myself instinctively providing digital needs using creative solutions which opens a ton of opportunity, and if given one from you, I would be grateful to help turn your ideas into reality. ⚡
 
 ---
 
