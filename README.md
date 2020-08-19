@@ -1,6 +1,3 @@
-
-[![Pull Request](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/crtved) [![Views](https://visitor-badge.glitch.me/badge?page_id=crtved.visitor-badge)](https://github.com/crtved)
-
 I was told that I am not creative enough and I should stop involving myself in any form of design projects or activities.
 
 **I didn't stop.** ✋🏻
