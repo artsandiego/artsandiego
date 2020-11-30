@@ -9,6 +9,7 @@ Throughout my career as a Web Developer, I found myself instinctively providing 
 ---
 
 Check the link below to know more about me 🧔🏻
+
 http://artsandiego.dev/
 
 <!--
