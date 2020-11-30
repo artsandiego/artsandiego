@@ -4,7 +4,7 @@ I was told that I am not creative enough and I should stop involving myself in a
 
 Kumusta, I am Art, a Creative Front-End Web Developer, UI Designer, UX Practitioner and a former Independent Web Development and Design Consultant from the Philippines.
 
-Throughout my career as a Web Developer, I found myself instinctively providing digital solutions using creative approach which led me to choose a career in consultancy, but I'm also open for freelance projects, it would be fun to help turn your creative ideas into reality. ⚡
+Throughout my career as a Web Developer, I found myself instinctively providing digital solutions using creative approach which led me to choose a career in consultancy, but I'm also open to freelance projects, it would be fun to help turn your creative ideas into reality. ⚡
 
 ---
 
