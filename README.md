@@ -1,6 +1,6 @@
 I was told that I am not a designer and I should stop involving myself in any form of design projects or any activity that requires creativity.
 
-** I didn't stop. ✋🏻 **
+**I didn't stop. ✋🏻**
 
 Kumusta, I am Art, a Creative Front-End Web Developer, UI Designer, UX Practitioner, and a former Independent Web Development and Design Consultant from the Philippines.
 
