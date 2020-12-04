@@ -1,16 +1,14 @@
-I was told that I am not creative enough and I should stop involving myself in any form of design projects or activities.
+I was told that I am not a designer and I should stop involving myself in any form of design projects or any activity that requires creativity.
 
-**I didn't stop. ✋🏻**
+**I didn't stop. ✋🏻 **
 
-Kumusta, I am Art, a Creative Front-End Web Developer, UI Designer, UX Practitioner and a former Independent Web Development and Design Consultant from the Philippines.
+Kumusta, I am Art, a Creative Front-End Web Developer, UI Designer, UX Practitioner, and a former Independent Web Development and Design Consultant from the Philippines.
 
-Throughout my career as a Web Developer, I found myself instinctively providing digital solutions using creative approach which led me to choose a career in consultancy, but I'm also open to freelance projects, it would be fun to help turn your creative ideas into reality. ⚡
+Throughout my career as a Web Developer, I found myself instinctively providing solutions for development and design problems using a technical and creative approach, which then led me to consider a career in consultancy, but during my time as a team lead/consultant, I felt like I wanted to do more, I wanted to create more.
 
----
+I quit my job as a consultant, applied for a software engineering position, and currently open for web design and/or development projects, it would be fun to help turn your creative ideas into reality. ⚡
 
-Check the link below to know more about me 🧔🏻
-
-http://artsandiego.dev/
+Thanks for reading! if you wanted to know more about me, feel free to visit my website at https://artsandiego.dev/ 
 
 <!--
 **crtved/crtved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
