@@ -6,7 +6,7 @@ Kumusta, I am Art, a Creative Front-End Web Developer, UI Designer, UX Practitio
 
 Throughout my career as a Web Developer, I found myself instinctively providing solutions for development and design problems using a technical and creative approach, which then led me to consider a career in consultancy, but during my time as a team lead/consultant, I felt like I wanted to do more, I wanted to create more.
 
-I quit my job as a consultant, applied for a software engineering position, and currently open for web design and/or development projects, it would be fun to help turn your creative ideas into reality. ⚡
+I quit my job as a consultant, applied for a software engineering position, and currently open for **freelance web design and/or development projects**, it would be fun to help turn your creative ideas into reality. ⚡
 
 Thanks for reading! if you wanted to know more about me, feel free to visit my website at https://artsandiego.dev/ 
 
