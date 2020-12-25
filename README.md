@@ -1,8 +1,8 @@
-I was told that I am not a designer and I should stop involving myself in any form of design projects or any activity that requires creativity.
 
-**I didn't stop. ✋🏻**
+## Kumusta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+![visitors](https://visitor-badge.glitch.me/badge?page_id=crtved)
 
-Kumusta, I am Art, a Creative Front-End Web Developer, UI Designer, UX Practitioner, and a former Independent Web Development and Design Consultant from the Philippines.
+I am [Art](https://artsandiego.dev), a Creative Front-End Web Developer, UI Designer, UX Practitioner, and a former Independent Web Development and Design Consultant from the Philippines.
 
 Throughout my career as a Web Developer, I found myself instinctively providing solutions for development and design problems using a technical and creative approach, which then led me to consider a career in consultancy, but during my time as a team lead/consultant, I felt like I wanted to do more, I wanted to create more.
 
@@ -10,17 +10,16 @@ I quit my job as a consultant, applied for a software engineering position, and 
 
 Thanks for reading! if you wanted to know more about me, feel free to visit my website at https://artsandiego.dev/ 
 
-<!--
-**crtved/crtved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Github Stats
+![Art's Github Stats](https://github-readme-stats.vercel.app/api?username=crtved&show_icons=true&theme=nord&count_private=true)
 
-Here are some ideas to get you started:
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crtved&theme=nord)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Where I most spent my time
+![Art's Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=crtved&theme=nord)
+
+## Let's Connect!
+- :notebook: [Notion Page](https://www.notion.so/Art-San-Diego-76e258b0b87d47eb8e3db7c426e8a376)
+- :man: [LinkedIn](https://www.linkedin.com/in/artsandiego/)
+- :computer: [Website](https://artsandiego.dev/)
