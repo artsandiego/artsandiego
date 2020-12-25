@@ -16,7 +16,7 @@ Thanks for reading! if you wanted to know more about me, feel free to visit my w
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crtved&theme=nord)
 
-## Where I most spent my time
+## Where I spent most of my time
 ![Art's Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=crtved&theme=nord)
 
 ## Let's Connect!
