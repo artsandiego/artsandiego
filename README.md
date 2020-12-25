@@ -11,15 +11,18 @@ I quit my job as a consultant, applied for a software engineering position, and 
 Thanks for reading! if you wanted to know more about me, feel free to visit my website at https://artsandiego.dev/ 
 
 ## Github Stats
-![Art's Github Stats](https://github-readme-stats.vercel.app/api?username=crtved&show_icons=true&theme=nord&count_private=true)
+[![Art's github stats](https://github-readme-stats.vercel.app/api?username=crtved&show_icons=true&theme=nord&count_private=true)](#)
+
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crtved&theme=nord)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crtved&theme=nord)](#)
 
 ## Where I spent most of my time
-![Art's Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=crtved&theme=nord)
+[![Art's Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=crtved&theme=nord)](#)
 
 ## Let's Connect!
 - :notebook: [Notion Page](https://www.notion.so/Art-San-Diego-76e258b0b87d47eb8e3db7c426e8a376)
 - :man: [LinkedIn](https://www.linkedin.com/in/artsandiego/)
 - :computer: [Website](https://artsandiego.dev/)
+- :star: [Instagram](https://www.instagram.com/crt.ved)
+- :bird: [Twitter](https://www.twitter.com/crtved)
