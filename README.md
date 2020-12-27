@@ -15,10 +15,11 @@ Thanks for reading! if you wanted to know more about me, feel free to visit my w
 
 
 ## Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crtved&theme=nord)](#)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crtved&layout=compact&theme=nord)](#)
 
 ## Where I spent most of my time
-[![Art's Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=crtved&theme=nord)](#)
+[![Art's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=crtved&theme=nord)](#)
+
 
 ## Let's Connect!
 - :notebook: [Notion Page](https://www.notion.so/Art-San-Diego-76e258b0b87d47eb8e3db7c426e8a376)
