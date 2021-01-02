@@ -18,8 +18,8 @@ Thanks for reading! if you wanted to know more about me, feel free to visit my w
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crtved&layout=compact&theme=nord)](#)
 
 ## Where I spent most of my time
-[![Art's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=crtved&theme=nord)](#)
-
+<!--[![Art's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=crtved&custom_title=Art%27s%20Language%20Stats&theme=nord)](https://github.com/anuraghazra/github-readme-stats)-->
+<img src="https://wakatime.com/share/@crtved/2ca6cd40-15fc-4681-9cd3-7fe81511838a.svg" height=350/>
 
 ## Let's Connect!
 - :notebook: [Notion Page](https://www.notion.so/Art-San-Diego-76e258b0b87d47eb8e3db7c426e8a376)
