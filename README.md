@@ -27,3 +27,6 @@ Thanks for reading! if you wanted to know more about me, feel free to visit my w
 - :computer: [Website](https://artsandiego.dev/)
 - :star: [Instagram](https://www.instagram.com/crt.ved)
 - :bird: [Twitter](https://www.twitter.com/crtved)
+
+## Buy me a coffee ☕
+BTC: bc1q783wyag5keqdjq52krxcq780sndxqyhnaq9xd3
