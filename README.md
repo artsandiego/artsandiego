@@ -2,13 +2,13 @@
 ## Kumusta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=crtved)
 
-I'm Art, a Creative Front-End Web Developer, aspiring UI Designer, a UX Practitioner, and a former Independent Web Development and Design Consultant from the Philippines.
+Kumusta, I'm Art, a Freelance Creative Front-End Web Developer, UI Designer, UX practitioner, and a former Independent Web Development and Design Consultant from the Philippines.
 
-During my career as a developer, I found myself instinctively providing ideas and solutions to both creative and development problems which then led me to consider a career in consultancy. Then I decided to pivot to freelancing and work as a Freelance Website and Application Developer and UI designer. ⚡️
+During my career as a developer, I found myself instinctively providing ideas and solutions to both creative and development problems which then led me to consider a career in consultancy. Then I decided to pivot to work as a Freelance Website Developer and UI designer. ⚡️
 
 Thank you for taking the time to read, feel free to reach out if you think we can work together, it would be fun to turn your creative ideas into reality.
 
-artsandiego.dev
+artsandiego.dev 
 
 ## Github Stats
 [![Art's github stats](https://github-readme-stats.vercel.app/api?username=crtved&show_icons=true&theme=nord&count_private=true)](#)
