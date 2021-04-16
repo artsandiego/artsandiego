@@ -1,6 +1,6 @@
 
 ## Kumusta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![visitors](https://visitor-badge.glitch.me/badge?page_id=crtved)
+![visitors]( https://visitor-badge.glitch.me/badge?page_id=crtved )
 
 I'm Art, a Freelance Creative Front-End Web Developer and a Self-taught UI/UX and Brand Identity Designer currently based in the Philippines.
 
