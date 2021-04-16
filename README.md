@@ -9,9 +9,7 @@ After 4 years of working as a full-time web developer, I thought it's about time
 CRTVED (Creative Developer) is a sole proprietorship that aims to provide Web Development, UI/UX Design, and Brand Identity Design services.
 
 Thank you for taking the time to read!
-I'm currently available for web design/development and brand identity design projects.
-
-artsandiego.dev 
+**I'm currently available for web design/development and brand identity design projects.**
 
 ## Github Stats
 [![Art's github stats](https://github-readme-stats.vercel.app/api?username=crtved&show_icons=true&theme=nord&count_private=true)](#)
