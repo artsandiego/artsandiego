@@ -4,7 +4,7 @@
 
 I'm Art, a Freelance Creative Front-End Web Developer and a Self-taught UI/UX and Brand Identity Designer currently based in the Philippines.
 
-I'm currently building my personal brand CRTVED ⚡️
+I'm currently building my personal brand CRTVED⚡️<br/>
 CRTVED /creative dev/ is a sole proprietorship that aims to provide Web Development, UI/UX Design, and Brand Identity Design services.
 
 If you think I can help you with your business or portfolio, don’t hesitate to reach out!
