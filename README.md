@@ -2,7 +2,7 @@
 ## Kumusta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![visitors]( https://visitor-badge.glitch.me/badge?page_id=crtved )
 
-Kumusta, I'm Art, a Freelance Creative Front-End Web Developer and a Self-taught UI/UX and Brand Identity Designer currently based in the Philippines.
+I'm Art, a Freelance Creative Front-End Web Developer and a Self-taught UI/UX and Brand Identity Designer currently based in the Philippines.
 
 I'm currently building my personal brand CRTVED ⚡️
 CRTVED /creative dev/ is a sole proprietorship that aims to provide Web Development, UI/UX Design, and Brand Identity Design services.
