@@ -1,9 +1,13 @@
 
+![Visitors]( https://visitor-badge.glitch.me/badge?page_id=crtved )
+<a href="https://artsandiego.dev">
+![website](https://img.shields.io/badge/portfolio-artsandiego.dev-yellow)
+ </a>
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![visitors]( https://visitor-badge.glitch.me/badge?page_id=crtved )
 
-I'm Art, an Independent creative Front-End Web developer, and UI designer. 
-I create aesthetic experiences for the web. :fire:
+| I'm Art, an Independent creative Front-End Web developer, and UI designer. I create aesthetic experiences for the web. :fire: | <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250px"/> |
+|--|--|
+
 
 ### Why CRTVED?
 The brand **CRTVED** (/kree·ay·tuhv/) was established to represent my right-side 🧠 At CRTVED we value human experience as we believe that experience is the bridge that connects art and technology. The mission is to create a safe space for people who wanted to pursue their passion in the design or development industry.
@@ -15,13 +19,14 @@ CRTVED is also here to help startups and small businesses enhance their customer
 
 Got any awesome ideas in your mind? CRTVED is always open for creative discussion. [Let's Talk!](mailto:crtved.artsandiego@gmail.com)
 
-## Current Tech Stack (2021)
-⚡ Next JS
-⚡ Strapi
-⚡ GraphQL
-⚡ React JS
-⚡ Headless WordPress
+## Tech Stack (2021) 
+- ⚡ Next JS
+- ⚡ Strapi
+- ⚡ GraphQL
+- ⚡ React JS
+- ⚡ Headless WordPress
 
+## Stats that matter
 | Github Stats | Top Languages |
 |--|--|
 | [![Art's github stats](https://github-readme-stats.vercel.app/api?username=crtved&show_icons=true&theme=nord&count_private=true)](#) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crtved&layout=compact&theme=nord)](#) |
