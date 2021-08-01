@@ -33,8 +33,8 @@ Got any awesome ideas in your mind? CRTVED is always open for creative discussio
 
 ## Let's be friends!
 - 📍 [Website](https://artsandiego.dev/)
-- 📍 [Facebook Page](https://fb.com/creativedeveloper)
+- 📍 [Facebook Page](https://fb.com/crtved.us)
 - 📍 [LinkedIn](https://www.linkedin.com/in/artsandiego/)
-- 📍 [Instagram](https://www.instagram.com/_crt.ved)
+- 📍 [Instagram](https://www.instagram.com/crt.ved)
 - 📍 [Twitter](https://www.twitter.com/crtved)
 - 📍 [Behance](https://www.behance.net/crtved)
