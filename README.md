@@ -1,7 +1,3 @@
-<a href="https://artsandiego.dev">
-![website](https://img.shields.io/badge/portfolio-artsandiego.dev-yellow)
-</a>
-
 # Oh, hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 | <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300px"/> | Art here, UI/UX Designer, Front-End Developer & Creator of [The Librvn](https://www.instagram.com/thelibrvn/) ⚡ |
