@@ -8,9 +8,9 @@
 |--|--|
 
 ## About The Librvn /ˈlēbrən/
-The Librvn is a passion-driven project that aims to upskill independent talents through free 1 on 1 consultations, exclusive webinars, bite-sized tutorials, social media content, and whatever medium we could think of in the future. 
+The Librvn is a passion-driven project that aims to upskill independent talents through exclusive webinars, bite-sized tutorials, social media content, and whatever medium we could think of in the future. 
 
-This project is a way for me to give back to the community. My goal is to create a platform for developers, designers, career shifters (who wanted to be a part of the tech industry), freelancers, and tech/creative experts (hopefully 🙏🏻) where they can challenge each other through healthy creative discussions, build team within the community and  provide digital services to SMEs and/or startups.
+This project is a way for me to give back to the community. My goal is to create a platform for developers, designers, career shifters (who wanted to be a part of the tech industry), freelancers, and tech/creative experts (hopefully 🙏🏻) where they can challenge each other through healthy creative discussions, build a team within the community that is capable of providing digital services to SMEs and/or startups, and just be a part of an awesome community.
 
 Any thoughts? I'm open to collaboration! [Let's Talk!](mailto:asd.artsandiego@gmail.com)
 
