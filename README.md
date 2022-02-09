@@ -1,36 +1,34 @@
-
-![Visitors]( https://visitor-badge.glitch.me/badge?page_id=crtved )
 <a href="https://artsandiego.dev">
 ![website](https://img.shields.io/badge/portfolio-artsandiego.dev-yellow)
- </a>
-# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</a>
 
-| I'm Art, Front-End Dev, UI/UX designer, and founder of THE LIBRVN. I create aesthetic experiences for the web. :fire: | <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250px"/> |
+# Oh, hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+| <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300px"/> | Art here, UI/UX Designer, Front-End Developer & Creator of [The Librvn](https://www.instagram.com/thelibrvn/) ⚡ |
 |--|--|
 
-THE LIBRVN is also open to helping startups and small businesses enhance their customers' digital experience by offering different services such as:
-- Website Development & Design
-- Brand Identity Design (Logo)
-- Front-End Web Development & UI Design Consultancy
+## About The Librvn /ˈlēbrən/
+The Librvn is a passion-driven project that aims to upskill independent talents through free 1 on 1 consultations, exclusive webinars, bite-sized tutorials, social media content, and whatever medium we could think of in the future. 
 
-Got any awesome ideas in your mind? [Let's Talk!](mailto:crtved.artsandiego@gmail.com)
+This project is a way for me to give back to the community. My goal is to create a platform for developers, designers, career shifters (who wanted to be a part of the tech industry), freelancers, and tech/creative experts (hopefully 🙏🏻) where they can challenge each other through healthy creative discussions, build team within the community and  provide digital services to SMEs and/or startups.
 
-## Tech Stack (2021) 
+Any thoughts? I'm open to collaboration! [Let's Talk!](mailto:asd.artsandiego@gmail.com)
+
+## My Tech Stack (2022) 
 - ⚡ Next JS
 - ⚡ Strapi
 - ⚡ GraphQL
 - ⚡ React JS
-- ⚡ Headless WordPress
+- ⚡ Headless CMS
+- ⚡ Figma
+- ⚡ Webflow
 
 ## Stats that matter
 | Github Stats | Top Languages |
 |--|--|
-| [![Art's github stats](https://github-readme-stats.vercel.app/api?username=crtved&show_icons=true&theme=nord&count_private=true)](#) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crtved&layout=compact&theme=nord)](#) |
+| [![Art's github stats](https://github-readme-stats.vercel.app/api?username=artsandiego&show_icons=true&theme=nord&count_private=true)](#) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=artsandiego&layout=compact&theme=nord)](#) |
 
-## Let's be friends!
-- 📍 [Website](https://artsandiego.dev/)
-- 📍 [Facebook Page](https://fb.com/thelibrvn)
+## Let's connect!
+- 📍 [Links](https://artsandiego.dev/links)
 - 📍 [LinkedIn](https://www.linkedin.com/in/artsandiego/)
-- 📍 [Instagram](https://www.instagram.com/thelibrvn)
-- 📍 [Twitter](https://www.twitter.com/thelibrvn)
 - 📍 [Behance](https://www.behance.net/thelibrvn)
