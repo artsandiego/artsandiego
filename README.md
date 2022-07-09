@@ -1,4 +1,4 @@
-# Oh, hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Oh, hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16px">
 
 | <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300px"/> | Art here, UI/UX Designer, Front-End Developer & Creator of [The Librvn](https://www.instagram.com/thelibrvn/) ⚡ |
 |--|--|
