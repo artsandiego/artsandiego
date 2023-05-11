@@ -1,22 +1,14 @@
 # Oh, hello there 👋🏻
 
-| <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300px"/> | Art here, UX Visual Designer, Creative Front-End Developer & Community Builder 🫂 |
+| <img src="https://media.giphy.com/media/VvXg0yjJQgfEQ/giphy.gif" width="500px"/> |  I'm [Art](https://www.linkedin.com/in/artsandiego/) </br> UX Visual Designer / Front-End Dev / UX Advocate </br></br> Currently Exploring </br> UI Motion Design & Generative AI for UX  |
 |--|--|
 
-## My Tech Stack (2022) 
-- ⚡ Next JS
-- ⚡ Strapi
-- ⚡ React JS
-- ⚡ Headless CMS
-- ⚡ Figma
-- ⚡ Webflow
+## Tech Stack 💅🏻
 
-## Stats that matter
-| Github Stats | Top Languages |
+| Front-End | Digital Design |
 |--|--|
-| [![Art's github stats](https://github-readme-stats.vercel.app/api?username=artsandiego&show_icons=true&theme=nord&count_private=true)](#) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=artsandiego&layout=compact&theme=nord)](#) |
-
-## Let's connect!
-- 📍 [Links](https://artsandiego.dev/links)
-- 📍 [LinkedIn](https://www.linkedin.com/in/artsandiego/)
-- 📍 [Behance](https://www.behance.net/thelibrvn)
+| Next JS       | Figma |
+| TailwindCSS   | Framer |
+| Strapi        | Spline |
+| Webflow       | UX |
+|               | Branding |
