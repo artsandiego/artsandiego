@@ -1,7 +1,4 @@
-# Oh, hello there 👋🏻
-
-I'm [Art](https://www.linkedin.com/in/artsandiego/) – UX & Visual Designer / Front-End Dev </br>
-I like to create bespoke web experiences
+# I'm [Art](https://www.linkedin.com/in/artsandiego/) – UX & Visual Designer / Front-End Dev
 
 <img src="https://media.giphy.com/media/VvXg0yjJQgfEQ/giphy.gif" width="100%"/>
 
