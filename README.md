@@ -1,7 +1,8 @@
 # Oh, hello there 👋🏻
 
-| <img src="https://media.giphy.com/media/VvXg0yjJQgfEQ/giphy.gif" width="500px"/> |  I'm [Art](https://www.linkedin.com/in/artsandiego/) </br> UX & Visual Designer / Front-End Dev </br> Official Framer Partner |
-|--|--|
+I'm [Art](https://www.linkedin.com/in/artsandiego/) – UX & Visual Designer / Front-End Dev
+
+<img src="https://media.giphy.com/media/VvXg0yjJQgfEQ/giphy.gif" width="100%"/>
 
 ## Tech Stack / Tools 💅🏻
 
