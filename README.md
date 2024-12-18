@@ -15,18 +15,7 @@ Featured in: [CSS Design Awards](https://www.cssdesignawards.com/sites/simetri-u
 [Framerist](https://framerist.framer.website/) (new 🎉) Ultimate component library for your Framer projects</br>
 
 **Stack**</br>
-[Framer](https://www.framer.com?via=art)</br>
-[Figma](https://www.figma.com/)</br>
-[Webflow](https://webflow.com/)</br>
-[Shadcn UI](https://ui.shadcn.com/)</br>
-[Tailwind](https://tailwindui.com/)</br>
-[React JS](https://react.dev/)</br>
-[ChatGPT](https://chatgpt.com/)</br>
-[V0](https://v0.dev/)</br>
-[Bolt](https://bolt.new/)
-[Cursor](https://www.cursor.com/)
-[Maze](https://maze.co/)</br>
-[Notion](https://www.notion.so/)</br>
+[Framer](https://www.framer.com?via=art), [Figma](https://www.figma.com/), [Webflow](https://webflow.com/), [Shadcn UI](https://ui.shadcn.com/), [Tailwind](https://tailwindui.com/), [React JS](https://react.dev/), [ChatGPT](https://chatgpt.com/), [V0](https://v0.dev/), [Bolt](https://bolt.new/), [Cursor](https://www.cursor.com/), [Maze](https://maze.co/), [Notion](https://www.notion.so/)</br>
 
 ---
 
