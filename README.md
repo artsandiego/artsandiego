@@ -1,8 +1,11 @@
 <img src="https://media.giphy.com/media/VvXg0yjJQgfEQ/giphy.gif" width="100%"/>
 
-I build Framer websites and brand identities for AI and SaaS startups.
+I'm Art, [Framer Expert](https://www.framer.com/@artsandiego/) & Design Engineer running [Simetri Studio](https://simetri.studio), an AI-augmented design studio for funded startups and growing SaaS companies. 
 
-I’m a Design Engineer and Framer Expert based in the Philippines 🇵🇭. I run [Simetri Studio](https://simetri.studio)—_a lean, AI-augmented, [Framer](https://www.framer.com/@artsandiego/) design partner for AI and SaaS founders_—helping them position their brand, design their identity, and ship scalable websites from pre-seed to Series A. 🚀
+After years as a Front-End Developer, I taught myself product design, and now I do both. 
+I usually spent my idle time using AI to build apps that I’d want to use myself.
 
-More about me: [artsandiego.dev](https://artsandiego.dev) 🙌🏻<br/>
+Outside of client work, there’s Simetri Labs, the studio’s community arm for designers learning Framer, AI workflows, and new ways to build for the web.
+
+More about me: [artsandiego.dev](https://artsandiego.dev)<br/>
 Follow me on [X](https://x.com/@_artsandiego)
