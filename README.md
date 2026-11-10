@@ -1,11 +1,8 @@
 <img src="https://media.giphy.com/media/VvXg0yjJQgfEQ/giphy.gif" width="100%"/>
 
-I'm Art, [Framer Expert](https://www.framer.com/@artsandiego/) & Design Engineer running [Simetri Studio](https://simetri.studio), an AI-augmented design studio for funded startups and growing SaaS companies. 
+I'm Art, a Design Engineer running [Simetri Studio](https://simetri.studio/). I design, build, and ship websites and brand identities for funded AI and SaaS startups and growing companies.
 
-After years as a Front-End Developer, I taught myself product design, and now I do both. 
-I usually spent my idle time using AI to build apps that I’d want to use myself.
-
-Outside of client work, there’s Simetri Labs, the studio’s community arm for designers learning Framer, AI workflows, and new ways to build for the web.
+Lately, I've been designing and building web and mobile apps with agentic development, exploring new ways to build products with AI and good taste.
 
 More about me: [artsandiego.dev](https://artsandiego.dev)<br/>
-Follow me on [X](https://x.com/@_artsandiego)
+Most active on: [X](https://x.com/@_artsandiego) & [LinkedIn](https://linkedin.com/in/artsandiego)
